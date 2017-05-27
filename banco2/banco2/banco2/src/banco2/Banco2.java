@@ -18,6 +18,7 @@ public class Banco2 {
       System.out.println("Hola banco ruben");
       
       System.out.println("ruben");
+      System.out.println("jose");
     }
     
 }
